@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 # Mock credentials for testing brute force
 USERNAME = 'admin'
-PASSWORD = 'password'
+PASSWORD = 'jamali'
 
 @app.route('/login', methods=['GET', 'POST'])
 def login():
