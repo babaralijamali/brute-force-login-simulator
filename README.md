@@ -16,7 +16,7 @@ This project simulates a brute force attack on a mock login form hosted on a loc
 2. Start the Flask mock server:
   python app.py
 
-  The server will start on http://127.0.0.1:5000 by default.
+Note: The server will start on http://127.0.0.1:5000 by default.
 
 4. Prepare the Wordlist
   Open another terminal window, navigate back to the main project directory (where brute_force.py is located):
